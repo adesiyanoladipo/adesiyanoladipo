@@ -23,7 +23,7 @@
  
  • I make what I want happen 💆🏻‍♂️
  
- [![Oladipo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adesiyanoladipo)](https://github.com/adesiyanoladipo/adesiyanoladipo/blob/main/README.md)
+ [![Oladipo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adesiyanoladipo)](https://github-readme-stats.vercel.app/api?username=adesiyanoladipo)
  
  <div align="center"> <i> Message me on my socials! I am open to <b>Anything</b> under the blue sky </i>😊
  
