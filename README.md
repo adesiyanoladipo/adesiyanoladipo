@@ -9,7 +9,7 @@
  
  • 😊 Just trying to be the Dev I'd love to hire
  
- • Find out more about me [here](https://linktr.ee/oladipo_codes)
+ • 🚀 Find out more about me [here](https://linktr.ee/oladipo_codes)
  
 ------------------
  
