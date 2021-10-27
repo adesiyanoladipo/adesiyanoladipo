@@ -3,7 +3,7 @@
 
  • 👨🏾‍💻 I'm a Software Developer
  
- • 🌎 Learning how to build APIs for people of the internet
+ • 🌎 Presently learning how to build APIs for people of the internet
  
  • 🎥 I shoot tech too 😊
  
@@ -12,6 +12,17 @@
  • 🚀 Find out more about me [here](https://linktr.ee/oladipo_codes)
  
 ------------------
+ Some other random facts about me 💪🏽▿
+ 
+ • I enjoy snapping beautful pictures
+ 
+ • Music is my go-to for every task I'm up for
+ 
+ • I love cinematography
+ 
+ • I make what I want happen 💆🏻‍♂️
+ 
+ [![Oladipo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adesiyanoladipo)](https://github.com/adesiyanoladipo/adesiyanoladipo/blob/main/README.md)
  
  <div align="center"> <i> Message me on my socials! I am open to <b>Anything</b> under the blue sky </i>😊
  
@@ -20,5 +31,3 @@
 [![linkedin-fill](https://user-images.githubusercontent.com/63419117/139138742-97fd23f3-b0c0-4053-972c-f21a94a0cf96.png)](https://www.linkedin.com/in/oladipo-adesiyan/) </center>
 </div>
 
-
-[![Oladipo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adesiyanoladipo)](https://github.com/adesiyanoladipo/adesiyanoladipo/blob/main/README.md)
