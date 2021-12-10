@@ -5,6 +5,8 @@
  
  • 🌎 Presently learning how to build APIs for people of the internet
  
+ • 🎥 I shoot tech too 😊
+ 
  • 😊 Just trying to be the Dev I'd love to hire
  
  • 🚀 Find out more about me [here](https://linktr.ee/oladipo_codes)
@@ -13,9 +15,11 @@
  <details> <summary> Some other random facts about me 💪🏽</summary>
  
  
+ • I enjoy snapping beautful pictures
+ 
  • Music is my go-to for every task I'm up for
  
- • I love nature
+ • I love cinematography
  
  • I make what I want happen 💆🏻‍♂️
  
