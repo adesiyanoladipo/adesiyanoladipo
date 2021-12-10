@@ -15,7 +15,7 @@
  
  • Music is my go-to for every task I'm up for
  
- • I love cinematography
+ • I love nature
  
  • I make what I want happen 💆🏻‍♂️
  
