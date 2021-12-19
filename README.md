@@ -3,7 +3,7 @@
 
  • 👨🏾‍💻 I'm a Software Developer
  
- • 🌎 Presently learning how to build APIs for people of the internet
+ • 🌎 Presently working on making the world a better place
  
  • 🎥 I shoot tech too 😊
  
@@ -13,6 +13,7 @@
  
 ------------------
  <details> <summary> Some other random facts about me 💪🏽</summary>
+ </br>
  
  
  • I enjoy snapping beautful pictures
