@@ -5,7 +5,7 @@
  
  • 🌎 Presently working on making the world a better place
  
- • 🎥 I shoot tech too 😊
+ • 💻 Backend Developer
  
  • 😊 Just trying to be the Dev I'd love to hire
  
